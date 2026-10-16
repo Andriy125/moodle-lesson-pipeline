@@ -1,0 +1,92 @@
+{
+  "УМ": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3104",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=80&add=page&section=5&beforemod=0&sr=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=80&add=quiz&section=5&beforemod=0&sr=10"
+  },
+  "УМ6": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3139",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=99&add=page&section=6&beforemod=0&sr=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=99&add=quiz&section=6&beforemod=0&sr=9"
+  },
+  "УМ3": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3167",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=56&add=page&section=12&beforemod=0&sr=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=56&add=quiz&section=12&beforemod=0&sr=0"
+  },
+  "УЛ": {
+    "course_url": "https://moodle.example.com/course/section.php?id=577",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=77&add=page&section=6&beforemod=0&sr=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=77&add=quiz&section=4&beforemod=0&sr=4"
+  },
+  "УЛ6": {
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=98&add=page&section=1&beforemod=0&sr=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=98&add=quiz&section=1&beforemod=0&sr=5"
+  },
+  "НМ11": {
+    "course_url": "https://moodle.example.com/course/section.php?id=1076",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=137&add=page&section=2&beforemod=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=137&add=quiz&section=2&beforemod=0&sr=2"
+  },
+  "УМ1": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3182",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=37&add=page&section=3&beforemod=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=37&add=quiz&section=3&beforemod=0",
+    "content_bank_url": "https://moodle.example.com/contentbank/index.php?contextid=919"
+  },
+  "НМ10": {
+    "course_url": "https://moodle.example.com/course/section.php?id=767",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=101&add=page&section=2&beforemod=0&sr=2",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=101&add=quiz&section=2&beforemod=0&sr=2",
+    "content_bank_url": "https://moodle.example.com/contentbank/index.php?contextid=3777"
+  },
+  "НМ9": {
+    "course_url": "https://moodle.example.com/course/section.php?id=1156",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=148&add=page&section=2&beforemod=0&sr=2",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=148&add=quiz&section=2&beforemod=0&sr=2"
+  },
+  "НМ8": {
+    "course_url": "https://moodle.example.com/course/section.php?id=1349",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=22&add=page&section=2&beforemod=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=22&add=quiz&section=2&beforemod=0&sr=2"
+  },
+  "НМ6": {
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=69&add=page&section=1&beforemod=0&sr=1",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=69&add=quiz&section=1&beforemod=0&sr=1"
+  },
+  "НМ5": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3107",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=69&add=page&section=1&beforemod=0&sr=1",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=69&add=quiz&section=1&beforemod=0&sr=1"
+  },
+  "ПП5": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3165",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=58&add=page&section=4&beforemod=0&sr=12",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=58&add=quiz&section=4&beforemod=0&sr=12"
+  },
+  "ПП6": {
+    "course_url": "https://moodle.example.com/course/section.php?id=1355",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=179&add=page&section=2&beforemod=0&sr=1",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=179&add=quiz&section=5&beforemod=0&sr=1"
+  },
+  "ЗЛ5": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3161",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=73&add=page&section=4&beforemod=0&sr=6",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=73&add=quiz&section=4&beforemod=0"
+  },
+  "ЗЛ6": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3158",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=95&add=page&section=4&beforemod=0",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=95&add=quiz&section=4&beforemod=0"
+  },
+  "ІУ5": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3082",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=63&add=page&section=5&beforemod=0&sr=9",
+    "create_quiz_url": "https://moodle.example.com/course/mod.php?id=63&add=quiz&section=5&beforemod=0&sr=9"
+  },
+  "М": {
+    "course_url": "https://moodle.example.com/course/section.php?id=3084",
+    "create_page_url": "https://moodle.example.com/course/mod.php?id=65&add=page&section=9&beforemod=11585",
+    "homework_book_url": "https://read.bookcreator.com/<library-id>/<book-id>"
+  }
+}

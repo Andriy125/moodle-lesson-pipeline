@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+
+# secrets and per-machine config
+credentials/
+config/moodle.local.json
+config/subject_routes.json
+
+# runtime state and lesson data
+info/
+h5p_cache/
+downloads/
+data/
+assets/
+stock_images/
+output.html
+test_output.xml
+lesson_raw.json
